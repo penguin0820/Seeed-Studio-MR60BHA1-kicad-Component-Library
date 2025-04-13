@@ -14,7 +14,7 @@ The **MR60BHA1** is a 60GHz FMCW millimeter-wave radar sensor from Seeed Studio,
 ## Usage
 
 1. Clone or download this repository.
-2. In KiCad, open `Preferences` > `Manage Symbol Libraries`, and add the `Seed_Studio_MR60BHA1.kicad_sym` file.
+2. In KiCad, open `Preferences` > `Manage Symbol Libraries`, and add the `Seeed_Studio_MR60BHA1.kicad_sym` file.
 3. Open `Manage Footprint Libraries`, and add the `Seeed_Studio_MR60BHA1` folder.
 
 ## Source
